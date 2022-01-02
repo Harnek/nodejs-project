@@ -1,0 +1,31 @@
+{
+  "name": "Nodejs-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harnek",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^9.1.4",
+    "@hapi/h2o2": "^9.1.0",
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/inert": "^6.0.4",
+    "@hapi/vision": "^6.1.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^8.2.0",
+    "handlebars": "^4.7.6",
+    "hapi-auth-jwt2": "^10.2.0",
+    "hapi-auto-route": "^3.0.4",
+    "hapi-i18n": "^3.0.1",
+    "hapi-swagger": "^14.2.4",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.2",
+    "nodemailer": "^6.4.11",
+    "path": "^0.12.7",
+    "sequelize": "^6.7.0"
+  }
+}
